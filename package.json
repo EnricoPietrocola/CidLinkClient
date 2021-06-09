@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/EnricoPietrocola/CidLinkClient#readme",
   "devDependencies": {
-    "socket.io-client": "^4.0.1"
+    "socket.io-client": "^4.1.1"
   }
 }
